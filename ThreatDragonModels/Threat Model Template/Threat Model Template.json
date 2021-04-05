@@ -3,7 +3,14 @@
     "title": "Threat Model Template"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "John Chua"
+      },
+      {
+        "name": "Richard Go"
+      }
+    ],
     "diagrams": [
       {
         "title": "Data Flow Diagram",
